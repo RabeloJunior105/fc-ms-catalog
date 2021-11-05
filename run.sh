@@ -1,5 +1,3 @@
-
-  
 #!/bin/bash
 gradle --stop
 gradle build --continuous --quiet &
